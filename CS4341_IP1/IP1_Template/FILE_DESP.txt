@@ -1,0 +1,10 @@
+You need to write you code in the following files:
+ - src/sokoban.py: Implement the Sokoban as a search problem and also define a heuristic function.
+ - src/search.py: Implement the Uniform-cost search and A* search.
+ - src/solver.py: Put your info in this files, you should not need to modify this file.
+
+Other files:
+ - src/problem.py: Interface for the `Problem` and `Node` in a search tree.
+ - src/eight_puzzle.py: Example usage of the `Problem` interface class through 8-Puzzle.
+ - src/utils.py: Useful utilities including a memorize function that caches function values and a priority queue. More info in the instruction PDF.
+ - boards/*.txt: Example Sokoban puzzles.
