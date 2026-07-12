@@ -1,2 +1,1 @@
-# Introduction-to-Artificial-Intelligence
-Coding projects based in Java
+Introduction to Artificial Intelligence
